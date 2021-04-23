@@ -20,6 +20,7 @@ The videos where I discuss each part of the exam (parts A, B, and C) can be foun
 
 __Part A: General Questions__ [[video](https://www.youtube.com/watch?v=C6dCPzoLANM&ab_channel=ShaneFleming)]
 
-__Part B: Interrupts and GPIO__ [[video](https://www.youtube.com/watch?v=C6dCPzoLANM&ab_channel=ShaneFleming)]
+__Part B: Interrupts and GPIO Question 5__ [[video](https://www.youtube.com/watch?v=1i3TwcZmZdI&ab_channel=ShaneFleming)]
+__Part B: Interrupts and GPIO Question 6__ [[video](https://www.youtube.com/watch?v=C6dCPzoLANM&ab_channel=ShaneFleming)]
 
 __Part C: Configuring a Hardware Timer__ [[video](https://www.youtube.com/watch?v=C6dCPzoLANM&ab_channel=ShaneFleming)]
