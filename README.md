@@ -24,4 +24,4 @@ __Part B: Interrupts and GPIO Question 5__ [[video](https://www.youtube.com/watc
 
 __Part B: Interrupts and GPIO Question 6__ [[video](https://youtu.be/ZmSCSeHxfh0)]
 
-__Part C: Configuring a Hardware Timer__ [[video](https://www.youtube.com/watch?v=C6dCPzoLANM&ab_channel=ShaneFleming)]
+__Part C: Configuring a Hardware Timer__ [[video](https://youtu.be/6oTY1PBUEKo)]
